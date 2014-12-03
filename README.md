@@ -5,12 +5,7 @@
 
 This project consist of two modules, Shell command "ls" is implemented in module one. Second module copies a specified % of text from a file to another.
 
-Write a program to
-
-1.List the contents of Directory
-
-2. copy data from Source file to Destination file(create file and path if not exists) of given
-percentage.
+Problem Statement: Write a program to List the contents of Directory and Copy data from Source file to Destination file(create file and path if not exists) of given percentage.
 
 
 Note: You should ONLY use system calls to achieve this.
