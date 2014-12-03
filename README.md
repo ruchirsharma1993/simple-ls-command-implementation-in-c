@@ -17,6 +17,7 @@ Note: You should ONLY use system calls to achieve this.
 
 Run the infinite loop until the “exit” typed.
 
+	
 =====================================
 	USAGE DETAILS: 
 =====================================
@@ -27,31 +28,28 @@ list <directory name>
 copy command format:
 copy <sourceFilePath> <DestinationFilePath> <StartPercentage> <EndPercentage>
 
-Sample Output:
+To Exit:
+exit
+
+=====================================
+	Sample OUTPUT:
+=====================================
 
 copy file dir1/dir2/fileCopy1 20 60
-
 Successfully copied :12 Bytes
-
 list dir1
-
 dir1 :
-
 dir1/dir2
-
 dir1/dir2:
-
 dir1/dir2/fileCopy1
-
 copy file dir1/fileCopy2 30 70
-
 Successfully copied :11 Bytes
 
 list dir1
-
 dir1 :
 dir1/fileCopy2
 dir1/dir2
 dir1/dir2:
 dir1/dir2/fileCopy1
+
 exit
