@@ -1,8 +1,9 @@
-/*This project consist of two modules, Shell command "ls" is implemented in module one. Second module copies a specified % of text from a file to another. Please refer to readme for usage details.*/
-
 /*
-AUTHOR: RUCHIR SHARMA
-Email: ruchir_sharma1993@yahoo.com
+=======================================================
+SIMPLE ls COMMAND IMPLEMENTATION IN C
+Author: RUCHIR SHARMA
+Email ID: ruchir.sharma@students.iiit.ac.in
+=======================================================
 */
 
 #include<stdio.h>
